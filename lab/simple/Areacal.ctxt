@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Areacal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=double\ circle(double)
+comment3.params=l
+comment3.target=int\ square(int)
+numComments=4
